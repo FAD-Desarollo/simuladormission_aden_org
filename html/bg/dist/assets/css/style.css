@@ -1,0 +1,216 @@
+/*HEADER Y SUS COSAS*/
+body{background-color:black;}
+.header{
+    height: 80px;
+    padding-top: 10px;
+    /* background-color: #9cbc03; */
+    /* background-color: #00000080; */
+    /* border-bottom: 1px solid #fff;; */
+  }
+  .header .col-md-4{
+    padding-top: 10px;
+  }
+  .header h3{
+    color: #fff;
+  }
+  .marca h5{
+    color: #fff;
+    display: inline;
+  }
+  .marca{
+    text-align: right;
+    /* padding-top: 20px !important; */
+  }
+  
+  .marca img{
+    width: 100px;
+    margin-top: -5px;
+  }
+  .calendario{
+    text-align: center;
+  }
+  
+  .calendar-bg{
+    z-index: 3;
+    width: 57px;
+    margin-top:3px;
+  }
+  .calendario h3{
+    color: #fff;
+    z-index: 6;
+    margin-top: -35px;
+  }
+  /* /HEADER Y SUS COSAS*/
+
+  .btn-nav{
+    background: none;
+    border:none;
+    display: inline;
+  }
+  .btn-nav img{width: 45px;}
+  /* /BTN*/
+  
+
+  .completar{
+    border-top:1px solid #67471b;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: auto;
+    margin-right:auto;
+    padding-top:1rem;
+  }
+  .completar h4{
+    font-family: 'Baloo Tammudu 2', cursive;
+    color: #67471b;
+  }
+  .contenedor-consigna{
+    margin-left: auto;
+    margin-right: auto;
+    background-size: contain;
+    margin-top: 3rem;
+    background-image: url(../../assets/img/10911.jpg);
+    box-shadow: 4px 3px 8px #0000008c;
+    background-position-x: inherit;
+    background-size: cover;
+    border-radius: 2px;
+  }
+  .texto-interno{
+    font-family: 'Handlee', cursive;
+    font-size: 20pt;
+    color:#4d2d03;
+  }
+  .titulo{
+    color: #554d43;
+    margin-top: 1rem;
+    font-family: 'Handlee', cursive;
+    font-weight: bolder;
+  }
+
+  .primero{
+    padding-top: 2rem;
+  }
+  .contenido{
+    padding:2rem;
+    text-align: center;
+    padding-bottom: 1rem;
+    padding-top:0px;
+  }
+
+  .daynumber{
+    text-decoration: underline;
+    font-weight: bold;
+    color: #554d43;
+    font-family: 'Handlee', cursive;
+  }
+/*ANIMACIONES*/
+.hvr-float {
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+    -webkit-transition-timing-function: ease-out;
+    transition-timing-function: ease-out;
+  }
+  .hvr-float:hover, .hvr-float:focus, .hvr-float:active {
+    -webkit-transform: translateY(-8px);
+    transform: translateY(-8px);
+  }
+  .delay-8s{
+    animation-delay: 8s !important;
+  }
+  
+  .delay-10s{
+    animation-delay: 10s !important;
+  }
+
+  .load-left2right-1{
+    animation-duration: 1s;
+    animation-name: movefromleft;
+  }
+  
+  .load-left2right-2{
+    animation-duration: 2s;
+    animation-name: movefromleft;
+    animation-delay: 8ms;
+    -moz-animation-delay: 8ms;
+    -webkit-animation-delay: 8ms;
+    -o-animation-delay: 8ms;
+  }
+  
+  .load-left2right-3{
+    animation-duration: 2s;
+    animation-name: movefromleft;
+    animation-delay: 15ms;
+    -moz-animation-delay: 15ms;
+    -webkit-animation-delay: 15ms;
+    -o-animation-delay: 15ms;
+  }
+  @keyframes movefromleft {
+    0% {
+        transform: translateX(-100%);
+    }
+    100% {
+        transform: translateX(0);
+    }
+  }  
+  .load-top2bottom-1{
+    animation-duration: 1s;
+    animation-name: movefromtop;
+  }
+  
+  .load-top2bottom-2{
+    animation-duration: 2s;
+    animation-name: movefromtop;
+    animation-delay: 8ms;
+    -moz-animation-delay: 8ms;
+    -webkit-animation-delay: 8ms;
+    -o-animation-delay: 8ms;
+  }
+  
+  .load-top2bottom-3{
+    animation-duration: 2s;
+    animation-name: movefromtop;
+    animation-delay: 15ms;
+    -moz-animation-delay: 15ms;
+    -webkit-animation-delay: 15ms;
+    -o-animation-delay: 15ms;
+  }
+  @keyframes movefromtop {
+    0% {
+        transform: translateY(-90%);
+    }
+    100% {
+        transform: translateY(0);
+    }
+  }  
+
+.freebirdFormviewerViewCenteredContent{max-width: 100vw !important;}
+
+.equipo{
+  text-align: center;
+  border-radius: 6px;
+  background-color: #ff8e2a;
+  text-transform: uppercase;
+  margin-top: 1rem;
+  display: inline-block;
+  padding: 1rem;
+  font-weight: bold;
+}
+
+/*BTN*/
+.btn-primary{
+  width: 80%;
+  display: inline;
+  margin-left: 20px;
+  background-color:#0c1b21 !important;
+  border-color:#000;
+}
+.btn-primary.disabled{
+  background-color:#0c1b21 !important;
+  border-color:#000;
+}

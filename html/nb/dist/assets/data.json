@@ -1,0 +1,257 @@
+[
+  {
+    "numero": 1,
+    "ayuda": "",
+    "titulo": "Encuentran una bolsa con 100.000 LEMPIRAS",
+    "descripcion": "Este dinero debería ser suficiente para poder atravesar todo el terreno. Pero quizás necesite otras monedas. En caso de cambiar divisas trate de negociar de la mejor manera posible para guardar lo necesario para cumplir la misión. Si otro equipo busca cotización pueden cambiar el dinero pero recuerden que se les va a pedir su rendición al finalizar la misión. Para ello deben buscar la mejor cotización en estos momentos en su comparativa con el dólar estadounidense y colocar ese monto en la casilla de respuestas. El monto debe surgir de promediar las cotizaciones de diferentes casas de cambio mundial. Al colocar el monto recuerde utilizar cuatro decimales. El monto debe ser exacto, pero de haber error lo sabrán al finalizar la misión.",
+    "consigna": "a cuántos dolares equivalen 100.000 Lempiras",
+    "secreto": "0.5",
+    "link": "https://platzi.com/clases/1153-angular-4/8301-creando-nuestro-propio-servicio/",
+    "Banco": {
+      "consigna": "consigna",
+      "codigo": "12321323123"
+    },
+    "Bitacora": {
+      "consigna": "buscar consigna",
+      "link": "https://platzi.com/clases/1153-angular-4/8301-creando-nuestro-propio-servicio/"
+    }
+  },
+  {
+    "numero": 2,
+    "ayuda": "",
+    "titulo": "",
+    "descripcion": "",
+    "consigna": "",
+    "secreto": "",
+    "link": "",
+    "Banco": {
+      "consigna": "",
+      "codigo": ""
+    },
+    "Bitacora": {
+      "consigna": "",
+      "link": ""
+    }
+  },
+  {
+    "numero": 3,
+    "ayuda": "",
+    "titulo": "",
+    "descripcion": "",
+    "consigna": "",
+    "secreto": "",
+    "link": "",
+    "Banco": {
+      "consigna": "",
+      "codigo": ""
+    },
+    "Bitacora": {
+      "consigna": "",
+      "link": ""
+    }
+  },
+  {
+    "numero": 4,
+    "ayuda": "",
+    "titulo": "",
+    "descripcion": "",
+    "consigna": "",
+    "secreto": "",
+    "link": "",
+    "Banco": {
+      "consigna": "",
+      "codigo": ""
+    },
+    "Bitacora": {
+      "consigna": "",
+      "link": ""
+    }
+  },
+  {
+    "numero": 5,
+    "ayuda": "",
+    "titulo": "",
+    "descripcion": "",
+    "consigna": "",
+    "secreto": "",
+    "link": "",
+    "Banco": {
+      "consigna": "",
+      "codigo": ""
+    },
+    "Bitacora": {
+      "consigna": "",
+      "link": ""
+    }
+  },
+  {
+    "numero": 6,
+    "ayuda": "",
+    "titulo": "",
+    "descripcion": "",
+    "consigna": "",
+    "secreto": "",
+    "link": "",
+    "Banco": {
+      "consigna": "",
+      "codigo": ""
+    },
+    "Bitacora": {
+      "consigna": "",
+      "link": ""
+    }
+  },
+  {
+    "numero": 7,
+    "ayuda": "",
+    "titulo": "",
+    "descripcion": "",
+    "consigna": "",
+    "secreto": "",
+    "link": "",
+    "Banco": {
+      "consigna": "",
+      "codigo": ""
+    },
+    "Bitacora": {
+      "consigna": "",
+      "link": ""
+    }
+  },
+  {
+    "numero": 8,
+    "ayuda": "",
+    "titulo": "",
+    "descripcion": "",
+    "consigna": "",
+    "secreto": "",
+    "link": "",
+    "Banco": {
+      "consigna": "",
+      "codigo": ""
+    },
+    "Bitacora": {
+      "consigna": "",
+      "link": ""
+    }
+  },
+  {
+    "numero": 9,
+    "ayuda": "",
+    "titulo": "",
+    "descripcion": "",
+    "consigna": "",
+    "secreto": "",
+    "link": "",
+    "Banco": {
+      "consigna": "",
+      "codigo": ""
+    },
+    "Bitacora": {
+      "consigna": "",
+      "link": ""
+    }
+  },
+  {
+    "numero": 10,
+    "ayuda": "",
+    "titulo": "",
+    "descripcion": "",
+    "consigna": "",
+    "secreto": "",
+    "link": "",
+    "Banco": {
+      "consigna": "",
+      "codigo": ""
+    },
+    "Bitacora": {
+      "consigna": "",
+      "link": ""
+    }
+  },
+  {
+    "numero": 11,
+    "ayuda": "",
+    "titulo": "",
+    "descripcion": "",
+    "consigna": "",
+    "secreto": "",
+    "link": "",
+    "Banco": {
+      "consigna": "",
+      "codigo": ""
+    },
+    "Bitacora": {
+      "consigna": "",
+      "link": ""
+    }
+  },
+  {
+    "numero": 12,
+    "ayuda": "",
+    "titulo": "",
+    "descripcion": "",
+    "consigna": "",
+    "secreto": "",
+    "link": "",
+    "Banco": {
+      "consigna": "",
+      "codigo": ""
+    },
+    "Bitacora": {
+      "consigna": "",
+      "link": ""
+    }
+  },
+  {
+    "numero": 13,
+    "ayuda": "",
+    "titulo": "",
+    "descripcion": "",
+    "consigna": "",
+    "secreto": "",
+    "link": "",
+    "Banco": {
+      "consigna": "",
+      "codigo": ""
+    },
+    "Bitacora": {
+      "consigna": "",
+      "link": ""
+    }
+  },
+  {
+    "numero": 14,
+    "ayuda": "",
+    "titulo": "",
+    "descripcion": "",
+    "consigna": "",
+    "secreto": "",
+    "link": "",
+    "Banco": {
+      "consigna": "",
+      "codigo": ""
+    },
+    "Bitacora": {
+      "consigna": "",
+      "link": ""
+    }
+  },
+  {
+    "numero": 15,
+    "ayuda": "",
+    "titulo": "",
+    "descripcion": "",
+    "consigna": "",
+    "secreto": "",
+    "link": "",
+    "Banco": {
+      "consigna": "",
+      "codigo": ""
+    },
+    "Bitacora": {
+      "consigna": "",
+      "link": ""
+    }
+  }
+]
