@@ -3,6 +3,6 @@ services:
   app:
     image: "gcr.io/odoo-erp-calendar/simuladormission_aden_org:$BUILD_TAG"
     ports:
-      - "8090:80"
+      - "8099:80"
     restart: unless-stopped
     container_name: simuladormission_aden_org
